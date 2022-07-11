@@ -1,6 +1,6 @@
 body{
     margin: 0;
-    background-color: #000000;
+    background: linear-gradient(240deg, #1f005c, #1f0063, #1d0074, #16008f, #0600b0, #0015d5, #003bfb, #2172ff, #429dff, #5dbbff, #6ecbff, #75d1ff);;
     /* background-color: white; */
     text-align: center;
     font-family: 'Josefin Sans', sans-serif;
